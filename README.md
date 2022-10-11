@@ -45,7 +45,11 @@ set NODE_ENV=development
 npm run build:dll
 
 # the dev-server will set proxy table to your backend
+<<<<<<< HEAD
 set TARGET=http://Your-backend:8000
+=======
+set TARGET=http://Your-backend
+>>>>>>> 911160ffbb8ddd7285b6e9b4f4fd8532e136a39b
 set TARGET=http://localhost:8000
 
 # serve with hot reload at localhost:8080
