@@ -46,6 +46,7 @@ npm run build:dll
 
 # the dev-server will set proxy table to your backend
 set TARGET=http://Your-backend
+set TARGET=http://localhost:8000
 
 # serve with hot reload at localhost:8080
 npm run dev
